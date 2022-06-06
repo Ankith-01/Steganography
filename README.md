@@ -1,1 +1,2 @@
 # Steganography
+Run main.py
